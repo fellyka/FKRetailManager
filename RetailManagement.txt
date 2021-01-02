@@ -1,0 +1,24 @@
+ Initial Project
+
+Build a desktop app that runs a cash register, handles inventory, and manages the entire store.
+In order to allow it grow, we eill be creating a WebAPI layer.
+
+----------------------------------------------------------------------------------------------
+ * We will build a MVP(Minimum Viable Product) that can be expanded to cover all of the features
+   needed over time. The first step is getting all of the major pieces set up, including:
+        #Git on Azure DevOps
+        #SQL database(SSDT)
+        #WebAPI with authentication
+        #WPF application that can log into the API
+
+
+ Techologies used:
+ * Unit Testing            * Async
+ * Dependency Injection    * Reporying
+ * WPF                     * WebApi
+ *ASP.NET MVC              * Logging
+ *.NET CORE                * Data Validation
+ *SSDT                     * HTML
+ *Git                      * CSS
+ *Azure DevOps             * JavaScript
+ *Design Patters           * Authentication
